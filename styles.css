@@ -73,7 +73,7 @@ button.add-book, button.close-form{
     background-color: yellow;
     font-weight: inherit;
     font-size: inherit;
-    color: white;
+    color: black;
     cursor: pointer;
     transition: opacity .2s;
 }
